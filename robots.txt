@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-fzt6ft.date-me.pro/sitemap.xml
